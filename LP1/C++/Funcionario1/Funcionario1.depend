@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1584205420 source:c:\users\néfi leite\downloads\1º período ufpb\programação\c - prog\lp1\c++\funcionario1\main.cpp
+	<iostream>
+
+1631338813 source:c:\users\néfi leite\downloads\1º período ufpb\programação\c - prog\lp1\c++\funcionario1\src\funcionario.cpp
+	"Funcionario.h"
+
+1631338829 c:\users\néfi leite\downloads\1º período ufpb\programação\c - prog\lp1\c++\funcionario1\include\funcionario.h
+	<string>
+

@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1631124329 source:c:\users\néfi leite\downloads\1º período ufpb\programação\c - prog\lp1\c++\classpessoa\main.cpp
+	"Pessoa.h"
+
+1631124679 c:\users\néfi leite\downloads\1º período ufpb\programação\c - prog\lp1\c++\classpessoa\include\pessoa.h
+	<string>
+	<iostream>
+
+1631124572 source:c:\users\néfi leite\downloads\1º período ufpb\programação\c - prog\lp1\c++\classpessoa\src\pessoa.cpp
+	"Pessoa.h"
+

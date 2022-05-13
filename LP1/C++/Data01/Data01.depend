@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1631337464 source:c:\users\néfi leite\downloads\1º período ufpb\programação\c - prog\lp1\c++\data01\main.cpp
+	<iostream>
+	"Data.h"
+
+1631337464 c:\users\néfi leite\downloads\1º período ufpb\programação\c - prog\lp1\c++\data01\include\data.h
+
+1631337464 source:c:\users\néfi leite\downloads\1º período ufpb\programação\c - prog\lp1\c++\data01\src\data.cpp
+	"Data.h"
+
